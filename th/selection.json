@@ -1,0 +1,32 @@
+{
+    "types": [
+        {
+            "label": "เพื่อน",
+            "type": "friends",
+            "topics": [
+                {
+                    "label": "เริ่มรู้จักกันหน่อย",
+                    "path": "getting_to_know"
+                },
+                {
+                    "label": "ชีวิต",
+                    "path": "life"
+                }
+            ]
+        },
+        {
+            "label": "ครอบครัว",
+            "type": "families",
+            "topics": [
+                {
+                    "label": "ความทรงจำ",
+                    "path": "memories"
+                },
+                {
+                    "label": "ชีวิด",
+                    "path": "life"
+                }
+            ]
+        }
+    ]
+}

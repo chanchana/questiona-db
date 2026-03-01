@@ -1,0 +1,12 @@
+{
+    "availableLanguage": [
+        {
+            "name": "English",
+            "code": "en"
+        },
+        {
+            "name": "ไทย",
+            "code": "th"
+        }
+    ]
+}

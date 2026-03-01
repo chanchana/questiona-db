@@ -1,0 +1,32 @@
+{
+    "types": [
+        {
+            "label": "Friends",
+            "type": "friends",
+            "topics": [
+                {
+                    "label": "Getting to Know",
+                    "path": "getting_to_know"
+                },
+                {
+                    "label": "Life",
+                    "path": "life"
+                }
+            ]
+        },
+        {
+            "label": "Families",
+            "type": "families",
+            "topics": [
+                {
+                    "label": "Memories",
+                    "path": "memories"
+                },
+                {
+                    "label": "Life",
+                    "path": "life"
+                }
+            ]
+        }
+    ]
+}
