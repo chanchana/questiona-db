@@ -108,7 +108,7 @@
       ]
     },
     {
-      "label": "ครอบครัว",
+      "label": "เร็วๆนี้",
       "type": "families",
       "topics": [
         {"label":"🌶️ ความหลังบ้าน","path":"family_memories"},
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "label": "คนรัก",
+      "label": "เร็วๆนี้",
       "type": "lovers",
       "topics": [
         {"label":"🌶️ หัวเราะด้วยกัน","path":"shared_laughter"},
@@ -319,7 +319,7 @@
       ]
     },
     {
-      "label": "พืเศษ",
+      "label": "เร็วๆนี้",
       "type": "specials",
       "topics": [
         {"label":"วิธีลืมเขา จะเข้าโรงเรียนที่ไหน","path":"move_on"}

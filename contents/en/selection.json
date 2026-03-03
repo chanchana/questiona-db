@@ -108,7 +108,7 @@
       ]
     },
     {
-      "label": "Families",
+      "label": "WIP",
       "type": "families",
       "topics": [
         { "label": "🌶️ Family Meals", "path": "family_meals" },
@@ -216,7 +216,7 @@
     },
 
     {
-      "label": "Lovers",
+      "label": "WIP",
       "type": "lovers",
       "topics": [
         { "label": "🌶️ Cute Moments", "path": "cute_moments_lovers" },
@@ -324,7 +324,7 @@
     },
 
     {
-      "label": "Specials",
+      "label": "WIP",
       "type": "specials",
       "topics": [
         { "label": "Situationship", "path": "situationship" }
