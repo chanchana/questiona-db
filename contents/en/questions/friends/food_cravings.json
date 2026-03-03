@@ -1,0 +1,12 @@
+{
+    "language": "en",
+    "type": "friends",
+    "topicLabel": "🌶️ Food Cravings",
+    "topicPath": "food_cravings",
+    "spiceLevel": 1,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

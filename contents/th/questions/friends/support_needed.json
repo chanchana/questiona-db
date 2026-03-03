@@ -1,0 +1,12 @@
+{
+    "language": "th",
+    "type": "friends",
+    "topicLabel": "🌶️🌶️ ต้องการช่วย",
+    "topicPath": "support_needed",
+    "spiceLevel": 2,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

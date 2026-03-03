@@ -1,0 +1,12 @@
+{
+    "language": "th",
+    "type": "friends",
+    "topicLabel": "🌶️ อารมณ์อากาศ",
+    "topicPath": "weather_moods",
+    "spiceLevel": 1,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

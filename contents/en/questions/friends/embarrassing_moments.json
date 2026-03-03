@@ -1,0 +1,12 @@
+{
+    "language": "en",
+    "type": "friends",
+    "topicLabel": "🌶️ Embarrassing Moments",
+    "topicPath": "embarrassing_moments",
+    "spiceLevel": 1,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "language": "en",
+    "type": "families",
+    "topicLabel": "🌶️🌶️🌶️ Reconnection Hope",
+    "topicPath": "reconnection_hope",
+    "spiceLevel": 3,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

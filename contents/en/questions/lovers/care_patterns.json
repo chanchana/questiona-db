@@ -1,0 +1,12 @@
+{
+    "language": "en",
+    "type": "lovers",
+    "topicLabel": "🌶️🌶️ Care Patterns",
+    "topicPath": "care_patterns",
+    "spiceLevel": 2,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

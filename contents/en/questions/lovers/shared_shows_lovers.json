@@ -1,0 +1,12 @@
+{
+    "language": "en",
+    "type": "lovers",
+    "topicLabel": "🌶️ Shared Shows",
+    "topicPath": "shared_shows_lovers",
+    "spiceLevel": 1,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

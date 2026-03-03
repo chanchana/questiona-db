@@ -1,0 +1,12 @@
+{
+    "language": "en",
+    "type": "friends",
+    "topicLabel": "🌶️🌶️ Identity Steps",
+    "topicPath": "identity_steps",
+    "spiceLevel": 2,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

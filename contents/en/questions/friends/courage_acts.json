@@ -1,0 +1,12 @@
+{
+    "language": "en",
+    "type": "friends",
+    "topicLabel": "🌶️🌶️ Courage Acts",
+    "topicPath": "courage_acts",
+    "spiceLevel": 2,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

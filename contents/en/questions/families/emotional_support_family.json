@@ -1,0 +1,12 @@
+{
+    "language": "en",
+    "type": "families",
+    "topicLabel": "🌶️🌶️ Emotional Support",
+    "topicPath": "emotional_support_family",
+    "spiceLevel": 2,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

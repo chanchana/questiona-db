@@ -1,0 +1,12 @@
+{
+    "language": "th",
+    "type": "families",
+    "topicLabel": "🌶️ สัตว์เลี้ยงบ้าน",
+    "topicPath": "family_pets",
+    "spiceLevel": 1,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

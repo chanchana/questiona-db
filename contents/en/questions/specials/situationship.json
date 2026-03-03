@@ -1,0 +1,12 @@
+{
+    "language": "en",
+    "type": "specials",
+    "topicLabel": "Situationship",
+    "topicPath": "situationship",
+    "spiceLevel": null,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

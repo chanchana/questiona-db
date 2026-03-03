@@ -1,0 +1,12 @@
+{
+    "language": "th",
+    "type": "lovers",
+    "topicLabel": "🌶️ ของหวานโปรด",
+    "topicPath": "favorite_sweets",
+    "spiceLevel": 1,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

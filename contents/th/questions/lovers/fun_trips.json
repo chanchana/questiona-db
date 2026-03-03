@@ -1,0 +1,12 @@
+{
+    "language": "th",
+    "type": "lovers",
+    "topicLabel": "🌶️ ทริปสนุก",
+    "topicPath": "fun_trips",
+    "spiceLevel": 1,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

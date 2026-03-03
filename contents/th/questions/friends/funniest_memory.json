@@ -1,0 +1,12 @@
+{
+    "language": "th",
+    "type": "friends",
+    "topicLabel": "🌶️ เรื่องขำที่สุด",
+    "topicPath": "funniest_memory",
+    "spiceLevel": 1,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "language": "th",
+    "type": "families",
+    "topicLabel": "🌶️🌶️ การเปลี่ยนแปลง",
+    "topicPath": "family_changes",
+    "spiceLevel": 2,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

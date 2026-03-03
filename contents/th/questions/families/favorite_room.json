@@ -1,0 +1,12 @@
+{
+    "language": "th",
+    "type": "families",
+    "topicLabel": "🌶️ ห้องโปรด",
+    "topicPath": "favorite_room",
+    "spiceLevel": 1,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

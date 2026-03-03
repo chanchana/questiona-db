@@ -1,0 +1,12 @@
+{
+    "language": "th",
+    "type": "families",
+    "topicLabel": "🌶️🌶️🌶️ ความกดดัน",
+    "topicPath": "pressure",
+    "spiceLevel": 3,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "language": "th",
+    "type": "families",
+    "topicLabel": "🌶️ ตลาดใกล้บ้าน",
+    "topicPath": "local_markets",
+    "spiceLevel": 1,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "language": "en",
+    "type": "families",
+    "topicLabel": "🌶️🌶️🌶️ Belonging Search",
+    "topicPath": "belonging_search",
+    "spiceLevel": 3,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

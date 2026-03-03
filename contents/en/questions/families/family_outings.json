@@ -1,0 +1,12 @@
+{
+    "language": "en",
+    "type": "families",
+    "topicLabel": "🌶️ Family Outings",
+    "topicPath": "family_outings",
+    "spiceLevel": 1,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

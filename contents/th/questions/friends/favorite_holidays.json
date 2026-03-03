@@ -1,0 +1,12 @@
+{
+    "language": "th",
+    "type": "friends",
+    "topicLabel": "🌶️ วันหยุดโปรด",
+    "topicPath": "favorite_holidays",
+    "spiceLevel": 1,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "language": "en",
+    "type": "friends",
+    "topicLabel": "🌶️🌶️🌶️ Existential Thoughts",
+    "topicPath": "existential_thoughts",
+    "spiceLevel": 3,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

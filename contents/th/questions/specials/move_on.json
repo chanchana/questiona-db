@@ -1,0 +1,12 @@
+{
+    "language": "th",
+    "type": "specials",
+    "topicLabel": "วิธีลืมเขา จะเข้าโรงเรียนที่ไหน",
+    "topicPath": "move_on",
+    "spiceLevel": null,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

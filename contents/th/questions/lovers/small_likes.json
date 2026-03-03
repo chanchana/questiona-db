@@ -1,0 +1,12 @@
+{
+    "language": "th",
+    "type": "lovers",
+    "topicLabel": "🌶️ สิ่งเล็กๆ ที่ชอบ",
+    "topicPath": "small_likes",
+    "spiceLevel": 1,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

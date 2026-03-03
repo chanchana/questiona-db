@@ -1,0 +1,12 @@
+{
+    "language": "en",
+    "type": "lovers",
+    "topicLabel": "🌶️ Lazy Days",
+    "topicPath": "lazy_days_lovers",
+    "spiceLevel": 1,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "language": "th",
+    "type": "lovers",
+    "topicLabel": "🌶️ เพลงโปรดคู่รัก",
+    "topicPath": "favorite_couple_songs",
+    "spiceLevel": 1,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

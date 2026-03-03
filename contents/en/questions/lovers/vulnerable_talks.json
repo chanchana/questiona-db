@@ -1,0 +1,12 @@
+{
+    "language": "en",
+    "type": "lovers",
+    "topicLabel": "🌶️🌶️ Vulnerable Talks",
+    "topicPath": "vulnerable_talks",
+    "spiceLevel": 2,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}

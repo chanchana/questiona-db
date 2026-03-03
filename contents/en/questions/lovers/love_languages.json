@@ -1,0 +1,12 @@
+{
+    "language": "en",
+    "type": "lovers",
+    "topicLabel": "🌶️🌶️ Love Languages",
+    "topicPath": "love_languages",
+    "spiceLevel": 2,
+    "questions": [
+        "template 1?",
+        "template 2?",
+        "template 3?"
+    ]
+}
